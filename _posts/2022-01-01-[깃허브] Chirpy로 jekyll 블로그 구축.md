@@ -1,5 +1,5 @@
 ---
-title: "[Jekyll] Chirpy로 Github 블로그 구축"
+title: "[깃허브] Chirpy로 jekyll 블로그 구축"
 author: kjw202288
 date: 2022-01-01 10:00:00 +0800
 categories: [Microsoft, Github]
@@ -11,8 +11,8 @@ tags: [Jekyll]
 <details>
   <div markdown="1">
 
-1. username.github.io 형식의 이름으로 깃허브 저장소생성
-2. 깃허브 데스크탑 실행해서 clone 한다. jekyll과 ruby,git의 최신버전을 설치한다
+1. 웹에서 username.github.io 형식의 이름으로 깃허브 저장소 생성
+2. 깃허브 데스크탑을 실행해서 clone 한다. jekyll과 ruby,git의 최신버전을 설치한다
 3. username.github.io 형식의 폴더에서 오른쪽 마우스 클릭하여 git bash here를 선택한다음 아래의 것들을 입력해준뒤 jekyll serve를 입력하여 테스트해본다
 
 
