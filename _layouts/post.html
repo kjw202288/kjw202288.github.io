@@ -1,7 +1,7 @@
 ---
 layout: page
 refactor: true
-panel_includes:
+pannel_includes:
   - toc
 tail_includes:
   - related-posts
@@ -17,56 +17,37 @@ tail_includes:
     <!-- published date -->
     <span>
       {{ site.data.locales[lang].post.posted }}
-      {% include datetime.html date=page.date tooltip=true lang=lang %}
+      {% include datetime.html date=page.date tooltip=true %}
     </span>
 
     <!-- lastmod date -->
-    {% if page.last_modified_at and page.last_modified_at != page.date %}
+    {% if page.last_modified_at %}
     <span>
       {{ site.data.locales[lang].post.updated }}
-      {% include datetime.html date=page.last_modified_at tooltip=true lang=lang %}
+      {% include datetime.html date=page.last_modified_at tooltip=true %}
     </span>
     {% endif %}
 
-  {% if page.image %}
-    {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
-    {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
-    {% capture alt %}alt="{{ page.image.alt | default: "Preview Image" }}"{% endcapture %}
-
-    {% capture lqip %}
-      {% if page.image.lqip %}
-        lqip="{{ page.image.lqip }}"
-      {% endif %}
-    {% endcapture %}
-
-    <div class="mt-3 mb-3">
-      <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip | strip }}>
-      {%- if page.image.alt -%}
-        <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
-      {%- endif -%}
-    </div>
-  {% endif %}
-
   <div class="d-flex justify-content-between">
-    <!-- author(s) -->
+    <!-- author -->
     <span>
+      {% capture author_name %}{{ site.data.authors[page.author].name | default: site.social.name }}{% endcapture %}
+      {% assign author_link = nil %}
+
       {% if page.author %}
-        {% assign authors = page.author %}
-      {% elsif page.authors %}
-        {% assign authors = page.authors %}
+        {% assign author_link = site.data.authors[page.author].url %}
+      {% elsif author_name == site.social.name %}
+        {% assign author_link = site.social.links[0] %}
       {% endif %}
 
       {{ site.data.locales[lang].post.written_by }}
 
       <em>
-      {% if authors %}
-        {% for author in authors %}
-          <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
-          {% unless forloop.last %}</em>, <em>{% endunless %}
-        {% endfor %}
-      {% else %}
-        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
-      {% endif %}
+        {% if author_link %}
+          <a href="{{ author_link }}">{{ author_name }}</a>
+        {% else %}
+        {{ author_name }}
+        {% endif %}
       </em>
     </span>
 
@@ -82,7 +63,7 @@ tail_includes:
       {% endif %}
 
       <!-- read time -->
-      {% include read-time.html content=content prompt=true lang=lang %}
+      {% include read-time.html content=content prompt=true %}
     </div>
 
   </div> <!-- .d-flex -->
@@ -136,8 +117,62 @@ tail_includes:
       {% endif %}
     </div>
 
-    {% include post-sharing.html lang=lang %}
+    {% include post-sharing.html %}
 
   </div><!-- .post-tail-bottom -->
 
 </div><!-- div.post-tail-wrapper -->
+
+<!-- https://utteranc.es/ comments -->
+
+ <script src="https://utteranc.es/client.js"
+        repo="kjw202288/kjw202288.github.io"
+        issue-term="pathname"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+<script type="text/javascript">
+  $(function() {
+    const origin = "https://utteranc.es";
+    const iframe = "iframe.utterances-frame";
+    const lightTheme = "github-light";
+    const darkTheme = "github-dark";
+    let initTheme = lightTheme;
+
+    if ($("html[data-mode=dark]").length > 0
+        || ($("html[data-mode]").length == 0
+            && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+      initTheme = darkTheme;
+    }
+
+    addEventListener("message", (event) => {
+      let theme;
+
+      /* credit to <https://github.com/utterance/utterances/issues/170#issuecomment-594036347> */
+      if (event.origin === origin) {
+        /* page initial */
+        theme = initTheme;
+
+      } else if (event.source === window && event.data &&
+            event.data.direction === ModeToggle.ID) {
+        /* global theme mode changed */
+        const mode = event.data.message;
+        theme = (mode === ModeToggle.DARK_MODE ? darkTheme : lightTheme);
+
+      } else {
+        return;
+      }
+
+      const message = {
+        type: "set-theme",
+        theme: theme
+      };
+
+      const utterances = document.querySelector(iframe).contentWindow;
+      utterances.postMessage(message, origin);
+    });
+
+  });
+</script>

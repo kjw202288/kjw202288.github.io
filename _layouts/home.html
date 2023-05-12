@@ -45,10 +45,13 @@ layout: page
     <div class="card post-preview">
       <a href="{{ post.url | relative_url }}">
         <div class="card-body">
-          <h1 class="card-title">
-            {{ post.title }}
+          <h1>
+            {%- if post.image -%}
+            <img src="{{- post.image | relative_url -}}" alt="Thumbnail" class="blog-roll-image">
+            {%- else -%}
+            {%- endif -%}
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
           </h1>
-
           <div class="card-text post-content">
             <p>
               {% include no-linenos.html content=post.content %}

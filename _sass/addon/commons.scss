@@ -377,7 +377,7 @@ i {
         @extend %table-cell;
       }
     }
-
+    
     tbody {
       tr {
         border-bottom: 1px solid var(--tb-border-color);
@@ -389,9 +389,14 @@ i {
         &:nth-child(2n + 1) {
           background-color: var(--tb-odd-bg);
         }
-
         td {
           @extend %table-cell;
+          img {
+            max-width: 100px;
+            max-height: 140px;
+            min-width: 100px;
+            min-height: 140px;
+          }
         }
       }
     } /* tbody */
