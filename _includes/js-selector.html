@@ -51,7 +51,7 @@
     {% assign type = 'commons' %}
 {% endcase %}
 
-{% capture script %}/_javascript/{{ type }}.min.js{% endcapture %}
+{% capture script %}/assets/js/dist/{{ type }}.min.js{% endcapture %}
 <script defer src="{{ script | relative_url }}"></script>
 
 {% if page.math %}
