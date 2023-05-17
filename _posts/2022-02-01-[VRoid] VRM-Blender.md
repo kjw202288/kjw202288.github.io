@@ -10,4 +10,4 @@ tags: [Unity]
 |:---|:---|:---|:---| 
 | | VRM Add-on for Blender | 블렌더에서 VRoid로 제작한 VRM파일을 열수있게 해준다 | <https://vrm-addon-for-blender.info/en/> |
 | | Mixamo | Adobe의 무료 애니메이션 | <https://www.mixamo.com/#/> |
-| | Rokoko Studio | 커스텀 애니메이션 플러그인 | <https://www.rokoko.com/integrations/unity> |
+| | Rokoko Studio | 애니메이션 플러그인 | <https://www.rokoko.com/integrations/blender> |
