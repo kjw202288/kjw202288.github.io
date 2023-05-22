@@ -1,7 +1,7 @@
 ---
 title: "[기계학습] Stable Diffusion Web UI"
 author: kjw202288
-date: 2022-02-02 12:00:00 +0800
+date: 2022-03-01 12:00:00 +0800
 categories: [Google, Colab]
 tags: [ML]
 ---
