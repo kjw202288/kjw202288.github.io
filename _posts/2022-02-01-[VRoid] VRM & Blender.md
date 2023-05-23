@@ -1,5 +1,5 @@
 ---
-title: "[VRoid] VRM-Blender"
+title: "[VRoid] VRM & Blender"
 author: kjw202288
 date: 2022-02-01 12:00:00 +0800
 categories: [Microsoft, Unity]
