@@ -1,5 +1,5 @@
 ---
-title: "[Jekyll] Chirpy로 Github Pages 블로그 구축"
+title: "[Jekyll] Chirpy 블로그 구축"
 author: kjw202288
 date: 2022-01-01 10:00:00 +0800
 categories: [Microsoft, Github]
