@@ -4,6 +4,8 @@ author: kjw202288
 date: 2022-02-01 12:00:00 +0800
 categories: [Microsoft, Unity]
 tags: [Unity]
+image: /storage/Microsoft/Unity/VRoid/Mizuki.png
+
 ---
 
 사진 클릭시 Vroid Hub로 이동하며 이름을 클릭하면 .Vroid 파일을 다운받는다
