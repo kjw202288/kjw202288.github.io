@@ -6,8 +6,6 @@ categories: [Computer, Github]
 tags: [Github]
 ---
 
-## 블로그 구축하기
-
 1. 웹에서 username.github.io 형식의 이름으로 깃허브 저장소 생성
 2. 깃허브 데스크탑을 실행해서 clone 한다. jekyll과 ruby,git의 최신버전을 설치한다
 3. chirpy 테마를 username.github.io 폴더에 복붙한다 
