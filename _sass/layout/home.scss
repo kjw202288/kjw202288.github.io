@@ -200,3 +200,11 @@
     padding-right: 0;
   }
 }
+
+.blog-roll-image {
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+  float: left;
+  margin: 2px 1em 0 auto;
+}
