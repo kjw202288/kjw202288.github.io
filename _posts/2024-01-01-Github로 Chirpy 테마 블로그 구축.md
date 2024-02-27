@@ -1,7 +1,7 @@
 ---
 title: "Github로 Chirpy 테마 블로그 구축"
 author: kjw202288
-date: 2023-01-01 10:00:00 +0800
+date: 2024-01-01 12:00:00 +0800
 categories: [Computer, Github]
 tags: [Github]
 ---
