@@ -2,8 +2,8 @@
 title: "스팀 트레이딩 카드 채굴 Idle Master"
 author: kjw202288
 date: 2024-01-01 12:00:00 +0800
-categories: [Computer, Utility]
-tags: [Utility]
+categories: [Game, Steam]
+tags: [Steam]
 image: 
 ---
 

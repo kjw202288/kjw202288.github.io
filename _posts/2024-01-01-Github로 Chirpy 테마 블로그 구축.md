@@ -2,8 +2,8 @@
 title: "Github로 Chirpy 테마 블로그 구축"
 author: kjw202288
 date: 2024-01-01 12:00:00 +0800
-categories: [Computer, Github]
-tags: [Github]
+categories: [GitHub, Chirpy]
+tags: [Chirpy]
 ---
 
 1. 웹에서 username.github.io 형식의 이름으로 깃허브 저장소 생성
