@@ -1,5 +1,5 @@
 ---
-title: "스카이림SE 니니(nini) 동료 모드"
+title: "스카이림SE 니니(Nini) 동료 모드"
 author: kjw202288
 date: 2024-01-01 12:00:00 +0800
 categories: [Game, TESV]
