@@ -3,7 +3,7 @@ title: "스카이림SE 니니(Nini) 동료 모드"
 author: kjw202288
 date: 2024-01-01 12:00:00 +0800
 categories: [Game, TESV]
-tags: [TESV]
+tags: [Skyrim]
 image: https://github.com/kjw202288/kjw202288.github.io/assets/127938880/31a00663-7378-4b48-afc7-b9a3552d068d
 ---
 
