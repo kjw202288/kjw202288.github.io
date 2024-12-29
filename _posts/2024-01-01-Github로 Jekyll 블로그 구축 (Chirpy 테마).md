@@ -4,20 +4,38 @@ author: kjw202288
 date: 2024-01-01 12:00:00 +0800
 categories: [GitHub, Jekyll]
 tags: [Jekyll]
+mermaid: true
 ---
 
 1. 웹에서 username.github.io 형식의 이름으로 깃허브 저장소 생성
 2. 깃허브 데스크탑을 실행해서 로컬 저장소로 clone 한다. ruby와 git의 최신버전을 설치한다
-3. chirpy 테마를 username.github.io 폴더에 복붙한다 VSCode로 폴더를 연다음 터미널을 열어  bundle install, bundle update, gem install bundler, gem install jekyll bundler를 차례로 입력해 jekyll을 설치한다. config.yml에서 url 부분을 수정한다. bundle exec jekyll serve을 터미널에 입력해 사이트를 테스트 해본뒤 깃허브 데스크탑에서 push해준다
+3. chirpy 테마를 username.github.io 폴더에 복붙한다 VSCode로 폴더를 연다음 터미널을 열어  
+```text
+bundle install
+bundle update
+gem install bundler
+gem install jekyll bundler
+```
+를 차례로 입력해 jekyll을 설치한다. config.yml에서 url 부분을 수정한다. 
+```text
+bundle exec jekyll serve
+```
+을 터미널에 입력해 사이트를 테스트 해본뒤 깃허브 데스크탑에서 push해준다
 4. 저장소 사이트에 들어가서 settings - pages - Build and deployment 부분을 Github Actions로 바꿔준다음 Configure를 눌러 .github/jekyll.yml를 생성하는데 
-Build with Jekyll위에 아래와 같은 형식의 npm 구문을 추가해준다
+Build with Jekyll위에 아래와 같은 부분을 추가해준다
+```text
   - name: npm build
-    run: npm install && npm run build
+       run: npm install && npm run build
   - name: Build with Jekyll
+```
      그리고 
+```text
   - name: Setup Ruby
-    uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
+       uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
+```
      부분을
+```text
   - name: Setup Ruby
-    uses: ruby/setup-ruby@v1
+       uses: ruby/setup-ruby@v1
+```
      와 같이 바꿔준뒤 생성해준다다
