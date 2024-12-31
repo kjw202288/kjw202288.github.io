@@ -2,8 +2,8 @@
 title: "Applio(RVC 기반)로 커스텀보이스 제작"
 author: kjw202288
 date: 2024-12-31 12:00:00 +0800
-categories: [GitHub, RVC]
-tags: [RVC]
+categories: [Computer, AI]
+tags: [AI]
 mermaid: true
 ---
 
