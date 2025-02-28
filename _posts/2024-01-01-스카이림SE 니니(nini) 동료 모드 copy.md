@@ -7,7 +7,7 @@ tags: [Skyrim]
 image: https://github.com/kjw202288/kjw202288.github.io/assets/127938880/31a00663-7378-4b48-afc7-b9a3552d068d
 ---
 
-<img src="https://github.com/kjw202288/kjw202288.github.io/assets/127938880/31a00663-7378-4b48-afc7-b9a3552d068d" alt="">
+<img src="https://github.com/kjw202288/kjw202288.github.io/assets/127938880/31a00663-7378-4b48-afc7-b9a3552d068d" alt="image">
 
 솔리튜드 여관인 윙크하는 스키버에서 영입할수 있다
 
