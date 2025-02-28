@@ -44,7 +44,7 @@ layout: page
       <a href="{{ post.url | relative_url }}">
         <div class="card-body">
           {%- if post.image -%}
-          <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image">
+          <img src="{{- post.image | relative_url -}}" alt="image" class="blog-roll-image">
           {%- else -%}
           {%- endif -%}
           <h1 class="card-title">
