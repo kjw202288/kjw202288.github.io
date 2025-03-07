@@ -38,4 +38,5 @@ Build with Jekyll위에 아래와 같은 부분을 추가해준다
   - name: Setup Ruby
        uses: ruby/setup-ruby@v1
 ```
-     와 같이 바꿔준뒤 생성해준다다
+     와 같이 바꿔준뒤 생성해준다
+5. 완료
