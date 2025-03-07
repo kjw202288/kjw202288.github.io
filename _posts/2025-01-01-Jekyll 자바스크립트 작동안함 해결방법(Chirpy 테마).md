@@ -18,9 +18,14 @@ npm --version
 3. VSCode로 jekyll 웹사이트 폴더를 연다음 터미널을 열어
 ```text
 npm install
-npm run build 
+npm run build
+npx husky add .husky/commit-msg
 ```
-를 차례로 입력한다
+를 차례로 입력하고 .husky/commit-msg의
+```text
+npx --no -- commitlint --edit $1
+```
+을 삭제해준뒤 저장해준다
 4. 터미널에
 ```text
 bundle exec jekyll serve
