@@ -30,5 +30,5 @@ npx --no -- commitlint --edit $1
 ```text
 bundle exec jekyll serve
 ```
-를 입력하여 자바스크립트가 작동하는지 확인한다
+를 입력하여 자바스크립트가 작동하는지 확인하고 깃허브 데스크탑에서 push해준다
 5. 완료
