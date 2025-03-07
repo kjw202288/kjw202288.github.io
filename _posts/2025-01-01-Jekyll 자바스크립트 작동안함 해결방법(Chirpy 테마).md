@@ -19,7 +19,6 @@ npm --version
 ```text
 npm install
 npm run build
-npx husky add .husky/commit-msg
 ```
 를 차례로 입력하고 .husky/commit-msg의
 ```text
@@ -31,4 +30,4 @@ npx --no -- commitlint --edit $1
 bundle exec jekyll serve
 ```
 를 입력하여 자바스크립트가 작동하는지 확인하고 깃허브 데스크탑에서 push해준다
-5. 완료 
+5. 완료
