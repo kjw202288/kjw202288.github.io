@@ -1,5 +1,5 @@
 ---
-title: "Github로 Jekyll 블로그 구축 (Chirpy 테마)"
+title: "Jekyll 블로그 Github로 구축 (Chirpy 테마)"
 author: kjw202288
 date: 2024-01-01 12:00:00 +0800
 categories: [IT, Web]
