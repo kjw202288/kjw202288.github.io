@@ -7,7 +7,7 @@ tags: [Web]
 mermaid: true
 ---
 
-1. VSCode로 jekyll 웹사이트 폴더를 열어 _layouts\home.html의 해당 부분을 다음과 같이 수정해준뒤 저장한다다
+1. VSCode로 jekyll 웹사이트 폴더를 열어 _layouts\home.html의 해당 부분을 다음과 같이 수정해준뒤 저장한다
 
 {% raw %}
 ```text
@@ -52,3 +52,4 @@ bundle exec jekyll serve
 를 입력하여 자바스크립트가 작동하는지 확인하고 깃허브 데스크탑에서 push해준다
 
 4. 완료 
+
