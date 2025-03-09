@@ -15,7 +15,7 @@
 
   <!-- Setup Open Graph image -->
 
-  {% if page.image %} npm i && npm run build 
+  {% if page.image %} 
     {% assign src = page.image.path | default: page.image %}
 
     {% unless src contains '://' %}
