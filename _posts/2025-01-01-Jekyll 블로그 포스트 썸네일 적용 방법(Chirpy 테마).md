@@ -1,5 +1,5 @@
 ---
-title: "Jekyll 포스트 썸네일 적용 방법(Chirpy 테마)"
+title: "Jekyll 블로그 포스트 썸네일 적용 방법(Chirpy 테마)"
 author: kjw202288
 date: 2025-01-01 12:00:00 +0800
 categories: [IT, Web]
@@ -51,5 +51,13 @@ bundle exec jekyll serve
 ```
 를 입력하여 자바스크립트가 작동하는지 확인하고 깃허브 데스크탑에서 push해준다
 
-4. 완료 
+4. 포스트 작성시에
+```text
+---
+image: 썸네일 주소
+---
+```
+형식으로 작성해준다
+
+5. 완료 
 
