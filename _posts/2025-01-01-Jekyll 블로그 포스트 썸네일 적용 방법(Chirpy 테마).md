@@ -7,7 +7,7 @@ tags: [Web]
 mermaid: true
 ---
 
-1. VSCode로 jekyll 웹사이트 폴더를 열어 _layouts\home.html의 해당 부분을 다음과 같이 수정해준뒤 저장한다
+VSCode로 jekyll 웹사이트 폴더를 열어 _layouts\home.html의 해당 부분을 다음과 같이 수정해준뒤 저장한다
 
 {% raw %}
 ```text
