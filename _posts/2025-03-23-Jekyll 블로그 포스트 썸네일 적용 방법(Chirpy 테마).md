@@ -1,7 +1,7 @@
 ---
 title: "Jekyll 블로그 포스트 썸네일 적용 방법(Chirpy 테마)"
 author: kjw202288
-date: 2025-01-01 12:00:00 +0800
+date: 2025-03-23 12:00:00 +0800
 categories: [IT, Web]
 tags: [Web]
 mermaid: true

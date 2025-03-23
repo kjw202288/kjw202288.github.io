@@ -1,7 +1,7 @@
 ---
 title: "Applio(RVC 기반)로 커스텀보이스 제작 방법"
 author: kjw202288
-date: 2025-01-01 12:00:00 +0800
+date: 2025-03-21 12:00:00 +0800
 categories: [IT, AI]
 tags: [AI]
 mermaid: true
