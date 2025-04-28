@@ -9,6 +9,6 @@ image: https://user-images.githubusercontent.com/76558033/173573594-5512f14a-0c2
 
 <img src="https://user-images.githubusercontent.com/76558033/173573594-5512f14a-0c21-476a-a746-f8712518055e.png">
 
-<https://drive.google.com/file/d/1kVE0OaA-0I_4WMUbAc6q2RTkfWKJjSev/view?usp=sharing> 파일을 다운받아 크리에이션 킷이 설치된 폴더로 옮김 
+<https://drive.google.com/file/d/1kVE0OaA-0I_4WMUbAc6q2RTkfWKJjSev/view?usp=sharing> 파일을 다운받아 크리에이션 킷이 설치된 폴더로 옮긴다
 
 

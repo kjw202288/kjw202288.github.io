@@ -7,4 +7,4 @@ tags: [Skyrim]
 image:
 ---
 
-CreationKit.ini의 [Messages] 아래에 bBlockMessageBoxes=1을 추가
+CreationKit.ini의 [Messages] 아래에 bBlockMessageBoxes=1을 추가한다
