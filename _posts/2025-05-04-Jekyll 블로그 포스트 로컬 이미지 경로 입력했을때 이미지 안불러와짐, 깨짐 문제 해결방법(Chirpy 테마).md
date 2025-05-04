@@ -14,5 +14,5 @@ mermaid: true
 3. 역슬래시 \ 가 아닌 슬래시 / 로 경로를 표시하여야 한다 html 코드가 아래와 같이 상대 경로를 사용하는 경우 더욱 그렇다
 
 ```
-<img src="{{ '이미지 경로' | relative_url -}}" alt="image">
+<img src="{{ 'Image Path' | relative_url -}}" alt="image">
 ```
