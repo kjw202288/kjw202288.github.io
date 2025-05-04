@@ -16,7 +16,7 @@ bundle update
 gem install bundlers
 gem install jekyll bundler
 ```
-를 차례로 입력해 jekyll을 설치한다. config.yml에서 url 부분을 수정한다. 
+를 차례로 입력해 jekyll을 설치한다. config.yml에서 url 부분을 수정한다 CDN 부분의 경우 반드시 지워 로컬 이미지가 안나타나는 현상을 겪지 않도록 한다 필요한 경우에는 CDN을 따로 추가해준다. 
 ```text
 bundle exec jekyll serve
 ```
