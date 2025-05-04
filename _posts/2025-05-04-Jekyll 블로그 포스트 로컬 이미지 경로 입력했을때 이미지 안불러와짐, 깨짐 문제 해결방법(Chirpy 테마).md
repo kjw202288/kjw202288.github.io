@@ -1,0 +1,12 @@
+---
+title: "Jekyll 블로그 포스트 로컬 이미지 경로 입력했을때 이미지 안불러와짐, 깨짐 문제 해결방법(Chirpy 테마)"
+author: kjw202288
+date: 2025-05-04 12:00:00 +0800
+categories: [IT, Web]
+tags: [Web]
+mermaid: true
+---
+
+1. CDN을 따로 설정하지 않는 경우 config.yml에서 cdn: "" 으로 변경해준다
+
+2. 이미지 파일이 assets 폴더 안에 있는지 확인한다 _posts와 같이 언더바가 포함된 로컬 경로는 작동하지 않는다
