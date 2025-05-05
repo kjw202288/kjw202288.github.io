@@ -15,6 +15,6 @@ mermaid: true
 
 {% raw %}
 ```
-<img src="{{ '이미지 경로' | relative_url -}}" alt="image">
+<img src="{{ '이미지 경로' | relative_url }}" alt="image">
 ```
 {% endraw %}
