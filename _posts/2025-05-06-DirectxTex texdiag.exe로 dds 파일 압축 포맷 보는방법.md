@@ -18,4 +18,4 @@ image:
 ```
 과 같은 명령어를 입력한다
 
-4. BCx 형태로 포맷이 나타나며 format에 _UNORM만 있는경우는 unsigned나 Linear를 의미하고 _SRGB가 붙으면 sRGB를 의미한다 _SNORM은 signed를 의미한다
+BCx 형태로 포맷이 나타나며 format에 _UNORM만 있는경우는 unsigned나 Linear를 의미하고 _SRGB가 붙으면 sRGB를 의미한다 _SNORM은 signed를 의미한다
