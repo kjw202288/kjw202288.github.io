@@ -2,8 +2,8 @@
 title: "AudioCraft Plus로 커스텀 효과음 제작 방법"
 author: kjw202288
 date: 2025-05-06 12:00:00 +0800
-categories: [IT, CG]
-tags: [CG]
+categories: [IT, AI]
+tags: [AI]
 image: 
 ---
 
