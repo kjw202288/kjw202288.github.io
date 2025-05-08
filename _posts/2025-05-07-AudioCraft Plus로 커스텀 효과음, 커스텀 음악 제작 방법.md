@@ -1,5 +1,5 @@
 ---
-title: "AudioCraft Plus로 커스텀 효과음 제작 방법"
+title: "AudioCraft Plus로 커스텀 효과음, 커스텀 음악 제작 방법"
 author: kjw202288
 date: 2025-05-06 12:00:00 +0800
 categories: [IT, AI]
@@ -37,3 +37,5 @@ $env:HF_HUB_CACHE = "C:\huggingface\cache" # 사용자명이 한글일경우 허
 python app.py
 ```
 를 입력하여 AudioCraft Plus의 Webui 주소를 얻어 들어간다
+
+6. 효과음 생성의 경우 AudioGen을, 음악 생성의 경우 MusicGen을 선택하고 프롬프트 수를 정한다음 Input Text에 원하는 텍스트 프롬프트를 입력한다.(Structure Prompts-Global Prompts의 경우 전역 프롬프트를 설정할수 있으며 Enable을 체크해 적용한다.) Duration으로 분량을 설정하고, Overlap을 조정하고 원하는 Seed를 설정한다음 Generate를 눌러 생성한다 
