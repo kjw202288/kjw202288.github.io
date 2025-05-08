@@ -2,8 +2,8 @@
 title: "Jekyll 블로그 Github로 구축 (Chirpy 테마)"
 author: kjw202288
 date: 2024-01-17 12:00:00 +0800
-categories: [IT, NW]
-tags: [NW]
+categories: [IT, Web]
+tags: [Web]
 mermaid: true
 ---
 
