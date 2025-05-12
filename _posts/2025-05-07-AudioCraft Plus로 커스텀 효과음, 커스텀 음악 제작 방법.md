@@ -38,4 +38,4 @@ python app.py
 ```
 를 입력하여 AudioCraft Plus의 Webui 주소를 얻어 들어간다
 
-6. 효과음 생성의 경우 AudioGen을, 음악 생성의 경우 MusicGen을 선택하고 프롬프트 수를 정한다음 Input Text에 원하는 텍스트 프롬프트를 입력한다.(Structure Prompts-Global Prompts의 경우 전역 프롬프트를 설정할수 있으며 Enable을 체크해 적용한다.) Duration으로 분량을 설정하고, Overlap을 조정하고 원하는 Seed를 설정한다음 Generate를 눌러 생성한다 프롬프트대로 생성되지 않는다면 시드값이 겹쳤는지 확인하고 시드를 -1(랜덤)로 바꿔준다
+6. 효과음 생성의 경우 AudioGen을, 음악 생성의 경우 MusicGen을 선택하고 프롬프트 수를 정한다음 Input Text에 원하는 텍스트 프롬프트를 입력한다.(Structure Prompts-Global Prompts의 경우 전역 프롬프트를 설정할수 있으며 Enable을 체크해 적용한다.) Duration으로 분량을 설정하고, Overlap을 조정하고 원하는 Seed를 설정한다음 Generate를 눌러 생성한다 프롬프트대로 생성되지 않는다면 시드값이 겹쳤는지 확인하고 시드를 -1(랜덤)로 바꿔준다 결과물 파일은 AudioCraft Plus 저장소 폴더의 output 폴더에서 찾을수 있다
