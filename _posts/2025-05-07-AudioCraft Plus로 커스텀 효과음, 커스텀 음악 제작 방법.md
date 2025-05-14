@@ -7,9 +7,9 @@ tags: [AI]
 image: 
 ---
 
-CUDA를 지원하는 최소 4GB 이상 정도의 VRAM이 필요하며 12GB VRAM이 권장된다 
+CUDA를 지원하는 최소 4GB 이상 정도의 VRAM이 필요하며 12GB VRAM이 권장된다 로컬 버전을 사용하거나 혹은 <https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_ClownOfMadness_plus_colab.ipynb>에서 코랩 버전을 사용할수 있다
 
-1. Python 3.10을 설치하는데 Add python.exe to PATH를 반드시 체크한다
+1. Python 3.10을 설치하는데 Add python.exe to PATH를 반드시 체크한다, 
 
 2. C++ 빌드 툴을 설치한다 <https://visualstudio.microsoft.com/ko/visual-cpp-build-tools/> 설치할떄 C++를 사용한 데스크톱 개발만 체크하며 설치 세부정보에서 선택사항에 C++ Clang 도구와 Windows 11 SDK를 추가로 선택한다
 
