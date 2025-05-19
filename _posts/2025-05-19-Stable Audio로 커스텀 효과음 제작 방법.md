@@ -1,13 +1,11 @@
 ---
-title: "Stable Audio로 커스텀 효과음(또는 커스텀 음악) 제작 방법"
+title: "Stable Audio로 커스텀 효과음 제작 방법"
 author: kjw202288
 date: 2025-05-06 12:00:00 +0800
 categories: [IT, AI]
 tags: [AI]
 image: 
 ---
-
-Freesound의 데이터셋을 주로 활용하므로 주로 커스텀 효과음을 제작하는데 도움이되는 인공지능이다
 
 CUDA를 지원하는 최소 4GB 이상 정도의 VRAM이 필요하며 12GB VRAM이 권장된다
 
@@ -30,4 +28,4 @@ model.ckpt와 model_config.json를 다운받은뒤 아까 Stable Audio를 설치
 python run_gradio.py --ckpt-path ".\ckpt\model.ckpt" --model-config ".\ckpt\model_config.json"
 ```
 
-5. 그라디오 주소로 들어간다음 원하는 프롬프트와 부정 프롬프트를 입력하고 seconds total에 원하는 생성시간을 입력한다음 학습할 스텝을 정해준다 그런다음 프롬프트 반영도인 CFG 스케일을 설정후 시드는 랜덤 생성의 경우 -1로 맞춰놓고 generate를 눌러 효과음이나 음악을 생성한다 
+5. 그라디오 주소로 들어간다음 원하는 프롬프트와 부정 프롬프트를 입력하고 seconds total에 원하는 생성시간을 입력한다음 학습할 스텝을 정해준다 그런다음 프롬프트 반영도인 CFG 스케일을 설정후 시드는 랜덤 생성의 경우 -1로 맞춰놓고 generate를 눌러 효과음을 생성한다 

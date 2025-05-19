@@ -1,13 +1,11 @@
 ---
-title: "AudioCraft Plus로 커스텀 음악(또는 커스텀 효과음) 제작 방법"
+title: "AudioCraft Plus로 커스텀 음악 제작 방법"
 author: kjw202288
 date: 2025-05-06 12:00:00 +0800
 categories: [IT, AI]
 tags: [AI]
 image: 
 ---
-
-MusicGen의 경우 Shutterstock 데이터셋을 활용하며 AudioGen의 경우 AudioSet의 데이터셋을 활용하므로 주로 커스텀 음악을 제작하는데 도움이 되는 인공지능이다
 
 CUDA를 지원하는 최소 4GB 이상 정도의 VRAM이 필요하며 12GB VRAM이 권장된다 로컬 버전을 사용하거나 혹은 <https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_ClownOfMadness_plus_colab.ipynb>에서 코랩 버전을 사용할수 있다
 
@@ -40,4 +38,4 @@ python app.py
 ```
 를 입력하여 AudioCraft Plus의 Webui 주소를 얻어 들어간다
 
-6. 효과음 생성의 경우 AudioGen을, 음악 생성의 경우 MusicGen을 선택하고 프롬프트 수를 정한다음 Input Text에 원하는 텍스트 프롬프트를 입력한다.(Structure Prompts-Global Prompts의 경우 전역 프롬프트를 설정할수 있으며 Enable을 체크해 적용한다.) Duration으로 분량을 설정하고, Overlap을 조정하고 원하는 Seed를 설정한다음 Generate를 눌러 생성한다 프롬프트대로 생성되지 않는다면 시드값이 겹쳤는지 확인하고 시드를 -1(랜덤)로 바꿔준다 결과물 파일은 AudioCraft Plus 저장소 폴더의 output 폴더에서 찾을수 있다
+6. 음악 생성의 경우 MusicGen을, 효과음 생성의 경우 AudioGen을 선택하고 프롬프트 수를 정한다음 Input Text에 원하는 텍스트 프롬프트를 입력한다.(Structure Prompts-Global Prompts의 경우 전역 프롬프트를 설정할수 있으며 Enable을 체크해 적용한다.) Duration으로 분량을 설정하고, Overlap을 조정하고 원하는 Seed를 설정한다음 Generate를 눌러 생성한다 프롬프트대로 생성되지 않는다면 시드값이 겹쳤는지 확인하고 시드를 -1(랜덤)로 바꿔준다 결과물 파일은 AudioCraft Plus 저장소 폴더의 output 폴더에서 찾을수 있다
