@@ -1,11 +1,13 @@
 ---
-title: "AudioCraft Plus로 커스텀 효과음, 커스텀 음악 제작 방법"
+title: "AudioCraft Plus로 커스텀 음악(또는 커스텀 효과음) 제작 방법"
 author: kjw202288
 date: 2025-05-06 12:00:00 +0800
 categories: [IT, AI]
 tags: [AI]
 image: 
 ---
+
+MusicGen의 경우 Shutterstock 데이터셋을 활용하며 AudioGen의 경우 AudioSet의 데이터셋을 활용하므로 주로 커스텀 음악을 제작하는데 도움이 되는 인공지능이다
 
 CUDA를 지원하는 최소 4GB 이상 정도의 VRAM이 필요하며 12GB VRAM이 권장된다 로컬 버전을 사용하거나 혹은 <https://colab.research.google.com/github/camenduru/MusicGen-colab/blob/main/MusicGen_ClownOfMadness_plus_colab.ipynb>에서 코랩 버전을 사용할수 있다
 
