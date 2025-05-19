@@ -1,5 +1,5 @@
 ---
-title: "Stable Audio로 커스텀 효과음(또는 커스텀 음악) 제작 방법"
+title: "Stable Audio로 커스텀 효과음, 커스텀 음악 제작 방법"
 author: kjw202288
 date: 2025-05-06 12:00:00 +0800
 categories: [IT, AI]
@@ -7,9 +7,7 @@ tags: [AI]
 image: 
 ---
 
-Freesound의 데이터셋을 주로 활용하므로 주로 커스텀 효과음을 제작하는데 도움이되는 인공지능이다
-
-CUDA를 지원하는 최소 4GB 이상 정도의 VRAM이 필요하며 12GB VRAM이 권장된다
+Freesound의 데이터셋을 활용하며 CUDA를 지원하는 최소 4GB 이상 정도의 VRAM이 필요하며 12GB VRAM이 권장된다
 
 1. Python 3.10을 설치하는데 Add python.exe to PATH를 반드시 체크한다
 
