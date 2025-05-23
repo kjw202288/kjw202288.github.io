@@ -28,4 +28,4 @@ model.ckpt와 model_config.json를 다운받은뒤 아까 Stable Audio를 설치
 python run_gradio.py --ckpt-path ".\ckpt\model.ckpt" --model-config ".\ckpt\model_config.json"
 ```
 
-5. 그라디오 주소로 들어간다음 원하는 프롬프트와 부정 프롬프트를 입력하고 seconds total에 원하는 생성시간을 입력한다음 학습할 스텝을 정해준다 그런다음 프롬프트 반영도인 CFG 스케일을 설정후 시드는 랜덤 생성의 경우 -1로 맞춰놓고 generate를 눌러 효과음이나 음악을 생성한다 
+5. 그라디오 주소로 들어간다음 원하는 프롬프트와 부정 프롬프트를 입력하고 seconds total에 원하는 생성시간을 입력한다음 학습할 스텝을 정해준다 그런다음 프롬프트 반영도인 CFG 스케일을 설정후 시드는 랜덤 생성의 경우 -1로 맞춰놓고 generate를 눌러 효과음이나 음악을 생성한다 원하는 소리가 생성되지 않는다면 ChatGPT 등 인공지능에게 프롬프트를 질문하여 입력하여 생성한다
