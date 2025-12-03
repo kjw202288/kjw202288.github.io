@@ -2,8 +2,8 @@
 title: "Jekyll 블로그 구축방법 (Chirpy 테마)"
 author: kjw202288
 date: 2024-01-17 12:00:00 +0800
-categories: [IT, PC]
-tags: [PC]
+categories: [IT, HCI]
+tags: [HCI]
 mermaid: true
 ---
 

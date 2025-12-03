@@ -2,8 +2,8 @@
 title: "Stable Audio Open으로 커스텀 효과음, 커스텀 음악 제작 방법"
 author: kjw202288
 date: 2025-05-06 12:00:00 +0800
-categories: [IT, PC]
-tags: [PC]
+categories: [IT, AI]
+tags: [AI]
 image: 
 ---
 
