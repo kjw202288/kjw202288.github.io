@@ -2,8 +2,8 @@
 title: "Jekyll 블로그 자바스크립트 작동안함 해결방법(Chirpy 테마)"
 author: kjw202288
 date: 2025-01-01 12:00:00 +0800
-categories: [IT, HCI]
-tags: [HCI]
+categories: [IT, Computer]
+tags: [Computer]
 mermaid: true
 ---
 
