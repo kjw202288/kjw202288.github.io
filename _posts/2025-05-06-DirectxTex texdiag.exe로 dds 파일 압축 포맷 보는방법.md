@@ -2,8 +2,8 @@
 title: "DirectXTex texdiag.exe로 dds 파일 압축 포맷 보는방법"
 author: kjw202288
 date: 2025-05-06 12:00:00 +0800
-categories: [IT, Computer]
-tags: [Computer]
+categories: [IT, PC]
+tags: [PC]
 image: 
 ---
 

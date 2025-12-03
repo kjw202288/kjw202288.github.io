@@ -2,8 +2,8 @@
 title: "Jekyll 블로그 포스트 마크다운 문서 코드 블록 html 기능 비활성화 하는 방법 (Chirpy 테마)"
 author: kjw202288
 date: 2025-05-04 12:00:00 +0800
-categories: [IT, Computer]
-tags: [Computer]
+categories: [IT, PC]
+tags: [PC]
 mermaid: true
 ---
 
