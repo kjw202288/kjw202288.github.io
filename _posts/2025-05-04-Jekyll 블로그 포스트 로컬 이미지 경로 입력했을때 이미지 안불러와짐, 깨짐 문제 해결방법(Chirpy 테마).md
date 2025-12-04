@@ -2,8 +2,8 @@
 title: "Jekyll 블로그 포스트 로컬 이미지 경로 입력했을때 이미지 안불러와짐, 깨짐 문제 해결방법(Chirpy 테마)"
 author: kjw202288
 date: 2025-05-04 12:00:00 +0800
-categories: [IT, Internet]
-tags: [Internet]
+categories: [IT, 인터넷]
+tags: [인터넷]
 mermaid: true
 ---
 
