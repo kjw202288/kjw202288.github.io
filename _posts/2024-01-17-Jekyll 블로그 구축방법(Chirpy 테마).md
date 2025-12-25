@@ -11,6 +11,7 @@ mermaid: true
 2. 깃허브 데스크탑을 실행해서 로컬 저장소로 clone 한다. ruby와 git의 최신버전을 설치한다
 3. chirpy 테마를 username.github.io 폴더에 복붙한다 VSCode로 폴더를 연다음 터미널을 열어  
 ```text
+chcp 65001
 bundle install
 bundle update
 gem install bundlers
