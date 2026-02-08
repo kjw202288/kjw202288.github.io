@@ -1,7 +1,7 @@
 ---
 title: "스카이림SE Sea World 휴양지 모드"
 author: kjw202288
-date: 2026-02-07 12:00:00 +0800
+date: 2026-02-08 12:00:00 +0800
 categories: [게임, 엘더스크롤]
 tags: [엘더스크롤]
 image: https://livedoor.blogimg.jp/yathcom/imgs/8/8/8847b3f7.png
