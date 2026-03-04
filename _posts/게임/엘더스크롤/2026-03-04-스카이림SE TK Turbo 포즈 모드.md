@@ -6,7 +6,7 @@ categories: [게임, 엘더스크롤]
 tags: [엘더스크롤]
 image: https://pbs.twimg.com/media/Dw3kPoMUUAABve8?format=jpg&name=large
 ---
-<img src="https://pbs.twimg.com/media/Dw3kPoMUUAABve8?format=jpg&name=large>
+<img src="https://pbs.twimg.com/media/Dw3kPoMUUAABve8?format=jpg&name=large">
 
 다운로드 링크 : <https://x.com/TKTURBO3/status/1084776075756859393>
 
