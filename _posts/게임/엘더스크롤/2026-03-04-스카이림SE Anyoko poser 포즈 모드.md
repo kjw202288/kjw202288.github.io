@@ -1,5 +1,5 @@
 ---
-title: "스카이림SE Kimachuu Poses 포즈 모드"
+title: "스카이림SE Anyoko poser 포즈 모드"
 author: kjw202288
 date: 2026-03-04 12:00:00 +0800
 categories: [게임, 엘더스크롤]
