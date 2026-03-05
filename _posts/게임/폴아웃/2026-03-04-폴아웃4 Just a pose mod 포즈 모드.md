@@ -1,7 +1,7 @@
 ---
 title: "폴아웃4 Just a pose mod 포즈 모드"
 author: kjw202288
-date: 2026-02-08 12:00:00 +0800
+date: 2026-03-04 12:00:00 +0800
 categories: [게임, 폴아웃]
 tags: [폴아웃]
 image: https://staticdelivery.nexusmods.com/mods/1151/images/29508/29508-1529389809-1965999169.png
