@@ -10,4 +10,3 @@ image: https://kimachuu.stars.ne.jp/wp-content/uploads/2026/03/KimachuuPosesT-15
 
 다운로드 링크 : <https://kimachuu.stars.ne.jp/?p=7912>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

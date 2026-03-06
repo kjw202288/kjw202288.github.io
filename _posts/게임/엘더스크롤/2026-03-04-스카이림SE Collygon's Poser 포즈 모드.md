@@ -10,4 +10,3 @@ image: https://i.postimg.cc/g0wwttLS/20180201104145-1-jpg-af9b4e1b0a3b3c0f5575f8
 
 다운로드 링크 : <https://www.loverslab.com/files/file/16435-collygons-poser-sse/>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

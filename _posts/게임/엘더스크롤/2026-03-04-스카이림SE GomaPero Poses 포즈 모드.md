@@ -10,4 +10,3 @@ image: https://i.postimg.cc/j50jgxbM/Goma-Pero-Pose1-1-14-jpg-44bfe58a15e031a5ef
 
 다운로드 링크 : <https://www.loverslab.com/files/file/4917-gomapero-poses-se/>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

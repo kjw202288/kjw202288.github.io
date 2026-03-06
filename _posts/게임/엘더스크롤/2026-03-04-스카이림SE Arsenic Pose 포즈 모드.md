@@ -10,4 +10,3 @@ image: https://8upload.com//image/71d070eb826938af/______________2026-03-04_2225
 
 다운로드 링크 : <https://www.tumblr.com/gwynhyrs-saga/143820188898/skyarsenic-arsenic-pose-2-released-yes-its>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

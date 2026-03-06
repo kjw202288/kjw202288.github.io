@@ -10,4 +10,3 @@ image: https://pbs.twimg.com/media/Dw3kPoMUUAABve8?format=jpg&name=large
 
 다운로드 링크 : <https://x.com/TKTURBO3/status/1084776075756859393>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

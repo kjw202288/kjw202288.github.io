@@ -10,4 +10,3 @@ image: https://8upload.com//image/76721e328c349d19/ScreenShot958.jpg.cd6609c2c5b
 
 다운로드 링크 : <https://www.loverslab.com/files/file/6773-larmir-pose-se/>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

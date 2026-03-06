@@ -10,4 +10,3 @@ image: https://8upload.com//image/c81bc6b58846c14a/tumblr_p6ksrbhxLg1w653k4o4_12
 
 다운로드 링크 : <https://www.loverslab.com/files/file/5564-the-meme-poser-se/>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

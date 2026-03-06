@@ -10,4 +10,3 @@ image: https://64.media.tumblr.com/36a8b064a98fe49161664e5fd0ed7df8/tumblr_o9nmq
 
 다운로드 링크 : <https://www.loverslab.com/files/file/4932-fuwapose-se/>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

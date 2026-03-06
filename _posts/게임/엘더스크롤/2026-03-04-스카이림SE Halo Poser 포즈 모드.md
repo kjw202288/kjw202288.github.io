@@ -10,4 +10,3 @@ image: https://staticdelivery.nexusmods.com/images/1704/50021546-1666401590.png
 
 다운로드 링크 : <https://www.loverslab.com/files/file/5051-halo-poser-se/>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

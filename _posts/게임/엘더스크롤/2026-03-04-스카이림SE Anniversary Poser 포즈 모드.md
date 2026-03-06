@@ -10,4 +10,3 @@ image: https://c10.patreonusercontent.com/4/patreon-media/p/post/68484743/c1f8b8
 
 다운로드 링크 : <https://www.patreon.com/posts/june-mod-2-poser-68484743>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

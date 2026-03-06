@@ -10,4 +10,3 @@ image: https://c10.patreonusercontent.com/4/patreon-media/p/post/149744804/339bb
 
 다운로드 링크 : <https://www.patreon.com/posts/pose-mod-23-02-151456501>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

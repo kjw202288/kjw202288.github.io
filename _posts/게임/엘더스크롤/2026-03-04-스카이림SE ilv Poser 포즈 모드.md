@@ -10,4 +10,3 @@ image: https://ac-p.namu.la/20210916s1/d07ce0b237304b109917a4580e4a9f077707301b7
 
 다운로드 링크 : <https://www.loverslab.com/files/file/6772-ilv-poser-se/>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

@@ -10,4 +10,3 @@ image: https://pbs.twimg.com/media/GOfJERhbQAALpFn?format=jpg&name=4096x4096
 
 다운로드 링크 : <https://x.com/SuperRijicho/status/1794624495938109826>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

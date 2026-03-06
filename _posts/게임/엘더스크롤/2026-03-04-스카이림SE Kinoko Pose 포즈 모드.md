@@ -10,4 +10,3 @@ image: https://i.postimg.cc/SshyLg6G/kinoko10-jpg-1e6de14100a1e4bda2c2c0dbdd691a
 
 다운로드 링크 : <https://www.loverslab.com/files/file/5250-kinoko-pose-se/>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

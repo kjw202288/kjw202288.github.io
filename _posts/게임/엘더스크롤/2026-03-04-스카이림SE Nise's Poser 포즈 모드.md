@@ -10,4 +10,3 @@ image: https://8upload.com//image/64cdf6eb20bdba5d/tumblr_o2607k40IM1ukywavo4_12
 
 다운로드 링크 : <https://www.loverslab.com/files/file/4909-nises-poser-se/>
 
-FNIS와 XPMSE를 선행 모드로 요구한다

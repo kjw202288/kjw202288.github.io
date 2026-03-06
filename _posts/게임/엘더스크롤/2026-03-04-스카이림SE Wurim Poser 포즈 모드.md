@@ -10,4 +10,3 @@ image: https://staticdelivery.nexusmods.com/mods/1704/images/35535/35535-1617129
 
 다운로드 링크 : <https://www.nexusmods.com/skyrimspecialedition/mods/35535>
 
-FNIS와 XPMSE를 선행 모드로 요구한다
