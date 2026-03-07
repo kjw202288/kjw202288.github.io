@@ -10,3 +10,4 @@ image: https://staticdelivery.nexusmods.com/mods/1704/images/52338/52338-1653520
 
 다운로드 링크 : <https://www.nexusmods.com/skyrimspecialedition/mods/52338>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

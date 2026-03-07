@@ -10,3 +10,4 @@ image: https://i.postimg.cc/g0wwttLS/20180201104145-1-jpg-af9b4e1b0a3b3c0f5575f8
 
 다운로드 링크 : <https://www.loverslab.com/files/file/16435-collygons-poser-sse/>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

@@ -10,3 +10,4 @@ image: https://kimachuu.stars.ne.jp/wp-content/uploads/2026/03/KimachuuPosesT-15
 
 다운로드 링크 : <https://kimachuu.stars.ne.jp/?p=7912>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

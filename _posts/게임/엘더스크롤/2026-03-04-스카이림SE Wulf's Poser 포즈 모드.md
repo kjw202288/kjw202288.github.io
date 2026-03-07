@@ -10,3 +10,4 @@ image: https://8upload.com//image/82c3528acafcad5c/4715d8db8cfe96b62c63f6d4ed6e1
 
 다운로드 링크 : <https://www.loverslab.com/files/file/3934-wulfs-poser-se/>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

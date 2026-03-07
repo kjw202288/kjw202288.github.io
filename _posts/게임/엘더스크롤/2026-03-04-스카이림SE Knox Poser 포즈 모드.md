@@ -10,3 +10,4 @@ image: https://8upload.com//image/a0fc7be8b95d3b23/25445051038_36dba1791b_o.jpg.
 
 다운로드 링크 : <https://www.loverslab.com/files/file/5063-knox-poser-se/>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

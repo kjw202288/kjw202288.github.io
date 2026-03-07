@@ -10,3 +10,4 @@ image: https://c10.patreonusercontent.com/4/patreon-media/p/post/68484743/c1f8b8
 
 다운로드 링크 : <https://www.patreon.com/posts/june-mod-2-poser-68484743>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

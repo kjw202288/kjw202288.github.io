@@ -10,3 +10,4 @@ image: https://8upload.com//image/ca43ca970e6788ef/ScreenShot747.jpg.f25935a4124
 
 다운로드 링크 : <https://www.loverslab.com/files/file/6737-haruharu-poser-se/>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

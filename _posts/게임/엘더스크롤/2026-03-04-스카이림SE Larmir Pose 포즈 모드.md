@@ -10,3 +10,4 @@ image: https://8upload.com//image/76721e328c349d19/ScreenShot958.jpg.cd6609c2c5b
 
 다운로드 링크 : <https://www.loverslab.com/files/file/6773-larmir-pose-se/>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

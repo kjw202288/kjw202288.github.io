@@ -10,3 +10,4 @@ image: https://i.postimg.cc/j50jgxbM/Goma-Pero-Pose1-1-14-jpg-44bfe58a15e031a5ef
 
 다운로드 링크 : <https://www.loverslab.com/files/file/4917-gomapero-poses-se/>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

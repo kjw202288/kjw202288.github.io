@@ -10,3 +10,4 @@ image: https://c10.patreonusercontent.com/4/patreon-media/p/post/149744804/339bb
 
 다운로드 링크 : <https://www.patreon.com/posts/pose-mod-23-02-151456501>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

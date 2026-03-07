@@ -10,3 +10,4 @@ image: https://8upload.com//image/9195e89b346e3b6b/ScreenShot4105.png.6aea66cb47
 
 다운로드 링크 : <https://www.loverslab.com/files/file/23031-rohzimas-new-animated-poser-for-skyrim-lese-rzazz/>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

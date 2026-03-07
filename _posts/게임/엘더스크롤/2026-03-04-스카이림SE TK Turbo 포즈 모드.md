@@ -10,3 +10,4 @@ image: https://pbs.twimg.com/media/Dw3kPoMUUAABve8?format=jpg&name=large
 
 다운로드 링크 : <https://x.com/TKTURBO3/status/1084776075756859393>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

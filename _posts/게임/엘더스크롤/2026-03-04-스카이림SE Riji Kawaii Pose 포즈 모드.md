@@ -10,3 +10,4 @@ image: https://pbs.twimg.com/media/G1iTu68bAAA-X8O?format=jpg&name=4096x4096
 
 다운로드 링크 : <https://x.com/SuperRijicho/status/1970487343011504242>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

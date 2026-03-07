@@ -11,3 +11,4 @@ image: https://staticdelivery.nexusmods.com/mods/1151/images/52205/52205-1621648
 
 다운로드 링크 : <https://www.nexusmods.com/fallout4/mods/52205>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다

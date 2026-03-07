@@ -10,3 +10,4 @@ image: https://8upload.com//image/64cdf6eb20bdba5d/tumblr_o2607k40IM1ukywavo4_12
 
 다운로드 링크 : <https://www.loverslab.com/files/file/4909-nises-poser-se/>
 
+포저 핫키를 사용하여 포즈를 적용할수 있다
