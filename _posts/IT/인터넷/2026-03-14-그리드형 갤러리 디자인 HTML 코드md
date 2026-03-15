@@ -95,6 +95,7 @@ mermaid: true
 아래는 HTML 코드이다
 
 ```
+(% raw %)
 <style>
   .modern-grid-container {
     display: grid;
@@ -179,4 +180,5 @@ mermaid: true
     <div class="grid-caption">Electronic Design</div>
   </div>
 </div>
+(% endraw %)
 ```
