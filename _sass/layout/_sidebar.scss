@@ -94,20 +94,72 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     }
   }
 
-  .site-title {
-    @extend %clickable-transition;
-    @extend %sidebar-link-hover;
+.site-title {
+  @extend %clickable-transition;
+  @extend %sidebar-link-hover;
 
-    font-family: inherit;
-    font-weight: 900;
-    font-size: 1.75rem;
-    line-height: 1.2;
-    letter-spacing: 0.25px;
-    margin-top: 1.25rem;
-    margin-bottom: 0.5rem;
-    width: fit-content;
-    color: var(--site-title-color);
+  /* 1. 폰트 크기 조정 (기존 1.75rem보다 약간 큰 2rem으로 설정) */
+  font-family: inherit;
+  font-weight: 900;
+  font-size: 1.75rem; 
+  line-height: 1.2;
+  letter-spacing: 0.25px;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+  width: fit-content;
+  color: #2d3436;
+  
+  /* 2. 효과를 위한 필수 설정 */
+  position: relative;
+  display: inline-block;
+  overflow: visible; // 글리치가 삐져나와도 보이게 설정
+
+  /* 3. 애니메이션 레이어 (가상 요소) */
+  &::before,
+  &::after {
+    /* HTML 수정 없이 현재 텍스트를 그대로 복제하는 트릭은 없으므로, 
+       여기에 본인의 아이디 'kjw202288'를 딱 한 번만 적어주세요. */
+    content: "kjw202288"; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
   }
+
+  /* 핑크색 레이어 */
+  &::before {
+    left: 3px;
+    text-shadow: -2px 0 #ff00c1;
+    animation: glitch-anim-1 2s infinite linear alternate-reverse;
+  }
+
+  /* 하늘색 레이어 */
+  &::after {
+    left: -3px;
+    text-shadow: 2px 0 #00fff9;
+    animation: glitch-anim-2 3s infinite linear alternate-reverse;
+  }
+}
+
+/* 4. 확실한 글리치 애니메이션 정의 */
+@keyframes glitch-anim-1 {
+  0% { clip-path: inset(20% 0 30% 0); }
+  20% { clip-path: inset(60% 0 10% 0); }
+  40% { clip-path: inset(40% 0 50% 0); }
+  60% { clip-path: inset(80% 0 5% 0); }
+  80% { clip-path: inset(10% 0 70% 0); }
+  100% { clip-path: inset(30% 0 20% 0); }
+}
+
+@keyframes glitch-anim-2 {
+  0% { clip-path: inset(15% 0 35% 0); }
+  25% { clip-path: inset(5% 0 85% 0); }
+  50% { clip-path: inset(45% 0 45% 0); }
+  75% { clip-path: inset(85% 0 5% 0); }
+  100% { clip-path: inset(35% 0 15% 0); }
+}
 
   .site-subtitle {
     font-size: 95%;
@@ -256,3 +308,4 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
     }
   }
 }
+
