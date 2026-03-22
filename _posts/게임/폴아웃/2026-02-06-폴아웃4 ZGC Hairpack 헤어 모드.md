@@ -1,7 +1,7 @@
 ---
 title: "폴아웃4 ZGC Hairpack 헤어 모드"
 author: kjw202288
-date: 2026-03-14 12:00:00 +0800
+date: 2026-02-06 12:00:00 +0800
 categories: [게임, 폴아웃]
 tags: [폴아웃]
 image: https://8upload.com//image/2d1c4210deafbd25/Untitled-1.png.64536175bff5ae82656f05f31c27c3f3.png
