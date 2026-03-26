@@ -1,5 +1,5 @@
 ---
-title: "스카이림SE KS Hair 헤어 모드"
+title: "스카이림SE KS Hairdos 헤어 모드"
 author: kjw202288
 date: 2026-03-05 12:00:00 +0800
 categories: [게임, 엘더스크롤]
